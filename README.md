@@ -1,4 +1,4 @@
-# CS-GO-Matchmaking-Data-Analysis
+# CSGO-Matchmaking-Data-Analysis
 Course project of Data Processing and Analysis in Python (BUDT758X)
 
 Data Source:
